@@ -2,6 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f22cfea2-6c69-43ce-a7ea-69c97bb2a97b" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 前导.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 安全疏散.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 室外消火栓.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 建筑分类.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 气体灭火系统.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 泡沫灭火系统.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 消防车道.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 火灾探测器.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 灭火器分类.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 燃烧条件.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 爆炸极限.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 生产的火灾危险性.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 自动喷水灭火系统.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 装修材料.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 防排烟系统.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 防火门.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/30min告别消防小白 防火间距.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/其他场所 （1）石油化工.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/其他场所 （2）汽车库修车库.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （0）前导.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （10）建筑防火共性考点速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （11）建筑防火共性考点速记3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （1）厂房建筑防火速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （2）厂房建筑防火速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （3）厂房建筑防火速记3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （4）仓库建筑防火速记.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （5）民用建筑防火速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （6）民用建筑防火速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （7）民用建筑防火速记3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （8）民用建筑防火速记4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/建筑防火 （9）建筑防火共性考点速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/法规管理 （1）法律法规速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/法规管理 （2）法律法规速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/法规管理 （3）消防安全管理速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/法规管理 （4）消防安全管理速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/第一章 第一节 会计概念、职能和目标(例题).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （10）照明供电.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （1）消防给水.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （2）消火栓.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （3）自动喷水.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （4）水喷雾细水雾.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （5）泡沫.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （6）气体干粉.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （7）灭火器.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （8）防排烟.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施实务 （9）自动报警.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （1）安装前检查速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （2）安装前检查速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （3）安装速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （4）安装速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （5）安装速记3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （6）调试速记1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （7）调试速记2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/设施综合 （8）维护管理速记.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="247">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -66,6 +120,11 @@
               <item name="xiaofangshipin" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaofangshipin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xiaofangshipin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaofangshipin" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -76,7 +135,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../淘知学堂/html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,6 +145,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\编程\python_2\视频\xiaofangshipin" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,6 +192,8 @@
       <workItem from="1629405216519" duration="670000" />
       <workItem from="1629421729324" duration="2507000" />
       <workItem from="1629428041196" duration="682000" />
+      <workItem from="1629493035558" duration="1735000" />
+      <workItem from="1629727439910" duration="798000" />
     </task>
     <task id="LOCAL-00001" summary="22">
       <created>1629273204203</created>
@@ -147,13 +213,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10170000" />
+    <option name="totallyTimeSpent" value="12703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2795699" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29032257" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -171,6 +236,7 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="13" />
       <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="bottom" id="消息" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -189,8 +255,8 @@
     <entry file="file://$PROJECT_DIR$/555/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="247">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
